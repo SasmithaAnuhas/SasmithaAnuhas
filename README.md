@@ -1,3 +1,5 @@
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Anuhas%2C+a+gamer+devoloper+creater+wannabe+%E2%9C%A9" width="70%" />
 # Hi, I'm Anuhas 👋
 
@@ -8,6 +10,6 @@
 🌐 Web Development  
 🛠️ Building things and learning every day
 
-<img src="./Data/Images/windows-95-windows-98.gif" width="400">
+<img src="./Data/Images/windows-95-windows-98.gif" width="300">
 
 🇱🇰 Sri Lanka
