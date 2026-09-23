@@ -8,4 +8,6 @@
 🌐 Web Development  
 🛠️ Building things and learning every day
 
+<img src="./Data/Images/windows-95-windows-98.gif" width="500">
+
 🇱🇰 Sri Lanka
